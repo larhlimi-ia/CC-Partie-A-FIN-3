@@ -1,8 +1,8 @@
 # Examen individuel : Projet de science des données appliqué à la finance
 
-**S7, filières FIN et CI** · Épreuve pratique individuelle de 2 heures
+**S7, ENCG-2026** · Épreuve pratique individuelle de 2 heures
 
-Chaque étudiant traite seul, en **deux heures**, le sujet qui lui a déjà été attribué : il mène un projet complet de science des données avec un algorithme choisi parmi les 29 du support de cours, puis le défend en soutenance individuelle.
+Chaque étudiant traite seul, en **deux heures**, le sujet qui lui a déjà été attribué : il mène un projet complet de science des données avec un algorithme choisi parmi les 29 du support de cours, puis le défend en soutenance individuelle. **Le travail final et complet doit être soumis sur le lien https://forms.gle/SmfW9kbcNbsz4Q8a7**
 
 ## Informations générales
 
