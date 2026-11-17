@@ -315,7 +315,8 @@ CodeApogee-Nom-Groupe/
 │   └── telecharger_donnees.py
 ├── figures/                  # graphiques exportés pour le rapport et la présentation
 ├── rapport/
-│   └── rapport.pdf           # export PDF du notebook (compte rendu)
+│   ├── rapport.pdf           # export PDF du notebook (compte rendu)
+    └── rapport Latex
 └── presentation/
     ├── presentation.pdf      # les six diapositives
     └── presentation.pptx     # fichier source (PowerPoint ou équivalent)
