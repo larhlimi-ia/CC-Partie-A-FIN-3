@@ -9,7 +9,7 @@ Chaque étudiant traite seul, en **deux heures**, le sujet qui lui a déjà ét�
 | Élément | Précision |
 | --- | --- |
 | Public | Étudiants de S7, filières FIN et CI |
-| Cours | [à compléter] |
+| Cours | BD & DS|
 | Modalité | Épreuve pratique individuelle notée, sur machine |
 | Durée | 2 heures, en séance |
 | Sujet | Celui qui vous a déjà été attribué |
