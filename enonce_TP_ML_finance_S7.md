@@ -16,7 +16,7 @@ Chaque étudiant traite seul, en **deux heures**, le sujet qui lui a déjà ét�
 | Langage | Python 3.10 ou plus récent (pandas, NumPy, matplotlib, scikit-learn) |
 | Dépôt GitHub | Public, nommé `CodeApogee-Nom-Groupe` (section 9) |
 | Soutenance | 8 minutes par étudiant, lors de la séance suivante |
-| Pondération | [à compléter] % de la note du cours |
+| Pondération | 30 % de la note du cours |
 | Documents fournis | Support `Tp_ML.ipynb` (29 algorithmes) et liste `projets_finance_science_donnees.md` (fiches des sujets) |
 
 ### À faire avant la séance (obligatoire)
